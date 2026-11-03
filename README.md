@@ -1,1 +1,2 @@
 # vitteshtaneja
+Vittesh Taneja is the Founder of MirRehab and Aquafab and a student at Westlake High School in Austin, Texas. His work focuses on artificial intelligence, healthcare innovation, robotics, 3D printing, and sustainable engineering. Through his projects and research, he combines hardware and software to make rehabilitation more accessible, develop water-filtration solutions, and address practical challenges in health and sustainability.
